@@ -1,0 +1,10 @@
+easyocr
+cv2
+numpy as np
+datetime
+sqlite3
+streamlit
+re
+pandas as pd
+hashlib
+base64
